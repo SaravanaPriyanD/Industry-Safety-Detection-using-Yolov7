@@ -1,0 +1,5 @@
+train: D:\\Saravana\\Learning\\GenerativeAI\\iNeuron\\E2E_Projects\\Industry-Safety-Detection-using-Yolov7\\train.txt
+val: D:\\Saravana\\Learning\\GenerativeAI\\iNeuron\\E2E_Projects\\Industry-Safety-Detection-using-Yolov7\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
